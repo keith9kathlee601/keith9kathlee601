@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @keith9kathlee601
+- 👀 I’m interested in C. I’m currently learning C++.
+- 🌱 Software Engineering student with a passion for C++. 
+- 📫 Enthusiastic about systems programming and solving complex technical problems.
